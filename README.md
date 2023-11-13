@@ -1,4 +1,4 @@
-# Arctic_Mammals_mid_term_project
+# Marine_Mammals_vs_Climate_Change_mid_term_project
 
 Group members: Ivet Petkova & Agata Płucienik
 
