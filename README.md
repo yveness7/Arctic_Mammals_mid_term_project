@@ -64,6 +64,11 @@ Correct data types,
 Remove unnecessary column,
 Remove/replace null/Nan values 
 
+
+
+
+SLides to the pitch presentation of the project: https://docs.google.com/presentation/d/1Shdk1xXlDg2IU7vhdYKDK1JlM6FEhho6V38IzzlA5PU/edit?usp=sharing
+
 Day 3 - Transform the data:
 Scale Numerical Features,
 Encode Categorical Features,
