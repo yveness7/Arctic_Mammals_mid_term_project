@@ -2,7 +2,7 @@
 
 Group members: Ivet Petkova & Agata Płucienik
 
-Welcome to “Arctic Drift”!
+Welcome to the “Marine Mammals VS Climate change” project!
 
 Our modelling project aims to gather and analyse available data on marine mammals that are fully or partially habitating the Arctic as their habitat during their lifetimes, combine it with atmospheric and oceanographic time series data from the Arctic region, and predict their future distribution under the hypothesis that as a result of global climate change, sea ice is retreating and the average surface ocean temperature is rising. 
 
