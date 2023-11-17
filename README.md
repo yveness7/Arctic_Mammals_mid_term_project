@@ -72,5 +72,7 @@ Modelling
 Day 4 - Presentation preparation 
 
 
-Slides to the pitch presentation of the project: https://docs.google.com/presentation/d/1Shdk1xXlDg2IU7vhdYKDK1JlM6FEhho6V38IzzlA5PU/edit?usp=sharing
+Slides of the pitch presentation of the project: https://docs.google.com/presentation/d/1Shdk1xXlDg2IU7vhdYKDK1JlM6FEhho6V38IzzlA5PU/edit?usp=sharing
+
+Slides of the final presentation of the project: https://docs.google.com/presentation/d/16iQO9VoS2jbX0cHJy8HZFxKC5dnW1DLe_F9hFvaWXfU/edit?usp=sharing
 
