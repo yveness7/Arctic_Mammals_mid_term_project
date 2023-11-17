@@ -4,7 +4,7 @@ Group members: Ivet Petkova & Agata Płucienik
 
 Welcome to the “Marine Mammals VS Climate change” project!
 
-Our modelling project aims to gather and analyse available data on marine mammals that are fully or partially habitating the Arctic as their habitat during their lifetimes, combine it with atmospheric and oceanographic time series data from the Arctic region, and predict their future distribution under the hypothesis that as a result of global climate change, sea ice is retreating and the average surface ocean temperature is rising. 
+Our modelling project aims to gather and analyse available data on marine mammals that are fully or partially habitating the Arctic as their habitat during their lifetimes, combine it with atmospheric and oceanographic time series data from the Arctic region, and predict their future distribution under the hypothesis that as a result of global climate change, sea ice is retreating and the average land and ocean temperature is rising, hence more marine mammals living in the Arctic will move to bigger latitudes. 
 
 Brief description of the dataset:
 
@@ -72,5 +72,7 @@ Modelling
 Day 4 - Presentation preparation 
 
 
-Slides to the pitch presentation of the project: https://docs.google.com/presentation/d/1Shdk1xXlDg2IU7vhdYKDK1JlM6FEhho6V38IzzlA5PU/edit?usp=sharing
+Slides of the pitch presentation of the project: https://docs.google.com/presentation/d/1Shdk1xXlDg2IU7vhdYKDK1JlM6FEhho6V38IzzlA5PU/edit?usp=sharing
+
+Slides of the final presentation of the project: https://docs.google.com/presentation/d/16iQO9VoS2jbX0cHJy8HZFxKC5dnW1DLe_F9hFvaWXfU/edit?usp=sharing
 
